@@ -1,0 +1,23 @@
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* field */
+.field {
+    /*display: table;*/
+}
+
+.field table{
+    border-spacing: 0;
+}
+
+.fieldElement {
+    width: 20px;
+    height: 20px;
+    background-color: #002e00;
+    padding: 1px;
+    border: 1px solid #00b000;
+    color: #00b000;
+}
